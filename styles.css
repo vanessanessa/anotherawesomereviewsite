@@ -1,0 +1,16 @@
+.page-container {
+    max-width: 750px;
+    margin: 10px auto;
+    display: flex;
+    padding: 10px;
+    background-color: #cccccc;
+}
+
+img {
+    max-width: 200px;
+}
+
+.info-section {
+    flex-grow: 1;
+    padding: 15px;
+}
